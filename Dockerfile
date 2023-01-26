@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM reganqbbot/mir:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
